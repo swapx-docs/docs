@@ -1,0 +1,9 @@
+{
+  "label": "开始",
+  "position": 4,
+ "className": "hidden",
+  "link": {
+    "type": "generated-index",
+    "description": "开始"
+  }
+}

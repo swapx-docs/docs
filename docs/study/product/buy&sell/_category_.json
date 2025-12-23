@@ -1,0 +1,9 @@
+{
+  "label": "buy&sell",
+  "position": 1,
+  "className": "hidden",
+  "link": {
+    "type": "generated-index",
+    "description": "buy&sell"
+  }
+}

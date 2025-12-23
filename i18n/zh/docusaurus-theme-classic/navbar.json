@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "SwapX Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Study": {
+    "message": "学习",
+    "description": "Navbar item with label Study"
+  },
+  "item.label.Contract": {
+    "message": "开发者",
+    "description": "Navbar item with label Contract"
+  },
+  "item.label.SDK": {
+    "message": "SDK",
+    "description": "Navbar item with label SDK"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

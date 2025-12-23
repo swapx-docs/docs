@@ -1,0 +1,242 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.studySidebar.category.product": {
+    "message": "产品",
+    "description": "The label for category 产品 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.流动性": {
+    "message": "流动性",
+    "description": "The label for category 流动性 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.流动性.link.generated-index.description": {
+    "message": "流动性",
+    "description": "The generated-index page description for category 流动性 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.add": {
+    "message": "添加",
+    "description": "The label for category 添加 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.兑换": {
+    "message": "兑换",
+    "description": "The label for category 兑换 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.swap.link.generated-index.description": {
+    "message": "兑换",
+    "description": "The generated-index page description for category 兑换 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.交易": {
+    "message": "交易",
+    "description": "The label for category 交易 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.trade.link.generated-index.description": {
+    "message": "交易",
+    "description": "The generated-index page description for category 交易 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.start": {
+    "message": "开始",
+    "description": "The label for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.start.link.generated-index.description": {
+    "message": "开始",
+    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.钱包指南": {
+    "message": "钱包指南",
+    "description": "The label for category 钱包指南 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.wallet_guid.link.generated-index.description": {
+    "message": "钱包指南",
+    "description": "The generated-index page description for category 钱包指南 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.条款和条件": {
+    "message": "条款和条件",
+    "description": "The label for category 条款和条件 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.条款和条件.link.generated-index.description": {
+    "message": "熟知我们的服务条款与隐私政策。",
+    "description": "The generated-index page description for category 条款和条件 in sidebar studySidebar"
+  },
+  "sidebar.contractSidebar.category.Swapx - V2": {
+    "message": "Swapx - V2",
+    "description": "The label for category Swapx - V2 in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.concepts": {
+    "message": "concepts",
+    "description": "The label for category concepts in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.advanced-topics": {
+    "message": "advanced-topics",
+    "description": "The label for category advanced-topics in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.core-concepts": {
+    "message": "core-concepts",
+    "description": "The label for category core-concepts in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.protocol-overview": {
+    "message": "protocol-overview",
+    "description": "The label for category protocol-overview in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.Swapx - V3": {
+    "message": "Swapx - V3",
+    "description": "The label for category Swapx - V3 in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.guides": {
+    "message": "guides",
+    "description": "The label for category guides in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.Implement-A-Swap": {
+    "message": "Implement-A-Swap",
+    "description": "The label for category Implement-A-Swap in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.technical-reference": {
+    "message": "technical-reference",
+    "description": "The label for category technical-reference in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.core": {
+    "message": "core",
+    "description": "The label for category core in sidebar contractSidebar"
+  },
+  "sidebar.contractSidebar.category.periphery": {
+    "message": "periphery",
+    "description": "The label for category periphery in sidebar contractSidebar"
+  },
+  "sidebar.sdkSidebar.category.Swapx - V2": {
+    "message": "Swapx - V2",
+    "description": "The label for category Swapx - V2 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.指南": {
+    "message": "指南",
+    "description": "The label for category 指南 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.指南.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 指南 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.参考": {
+    "message": "参考",
+    "description": "The label for category 参考 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.参考.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 参考 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.Swapx - V3": {
+    "message": "Swapx - V3",
+    "description": "The label for category Swapx - V3 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.先进的": {
+    "message": "先进的",
+    "description": "The label for category 先进的 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.先进的.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 先进的 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.流动性": {
+    "message": "流动性",
+    "description": "The label for category 流动性 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.流动性.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 流动性 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.兑换": {
+    "message": "兑换",
+    "description": "The label for category 兑换 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.兑换.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 兑换 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.类": {
+    "message": "类",
+    "description": "The label for category 类 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.类.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 类 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.枚举": {
+    "message": "枚举",
+    "description": "The label for category 枚举 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.枚举.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 枚举 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.接口": {
+    "message": "接口",
+    "description": "The label for category 接口 in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.接口.link.generated-index.description": {
+    "message": "快速了解",
+    "description": "The generated-index page description for category 接口 in sidebar sdkSidebar"
+  },
+  "sidebar.studySidebar.category.开始": {
+    "message": "开始",
+    "description": "The label for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.开始.link.generated-index.description": {
+    "message": "开始",
+    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.wallet_guide": {
+    "message": "钱包指南",
+    "description": "The label for category wallet_guide in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.wallet_guide.link.generated-index.description": {
+    "message": "钱包指南",
+    "description": "The generated-index page description for category wallet_guide in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.产品": {
+    "message": "产品",
+    "description": "The label for category 产品 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Swap": {
+    "message": "兑换",
+    "description": "The label for category 兑换 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Swap.link.generated-index.description": {
+    "message": "兑换",
+    "description": "The generated-index page description for category 兑换 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.liquidity": {
+    "message": "流动性",
+    "description": "The label for category 流动性 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.liquidity.link.generated-index.description": {
+    "message": "流动性",
+    "description": "The generated-index page description for category 流动性 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Privacy and terms": {
+    "message": "隐私条款与协议",
+    "description": "The label for category 隐私条款与协议 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Privacy and terms.link.generated-index.description": {
+    "message": "隐私条款与协议",
+    "description": "The generated-index page description for category 隐私条款与协议 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start": {
+    "message": "开始",
+    "description": "The label for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start.link.generated-index.description": {
+    "message": "开始",
+    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Product": {
+    "message": "产品",
+    "description": "The label for category Product in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.buy&sell": {
+    "message": "买&卖",
+    "description": "The label for category 买&卖 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.buy&sell.link.generated-index.description": {
+    "message": "买&卖",
+    "description": "The generated-index page description for category 买&卖 in sidebar studySidebar"
+  }
+}

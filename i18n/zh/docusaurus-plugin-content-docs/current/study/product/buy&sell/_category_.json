@@ -1,0 +1,9 @@
+{
+  "label": "买卖",
+  "position": 4,
+  "className": "hidden",
+  "link": {
+    "type": "generated-index",
+    "description": "买卖"
+  }
+}
